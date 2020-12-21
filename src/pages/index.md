@@ -2,24 +2,18 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Simple billing software for smart businesses.
+    subtitle: ''
     actions:
-      - label: Learn More
+      - label: Start for free now
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
-    image: images/hero.svg
+    image: images/Group 8.svg
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
