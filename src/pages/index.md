@@ -5,7 +5,7 @@ sections:
     title: Simple billing software for smart businesses.
     subtitle: ''
     actions:
-      - label: Learn More
+      - label: Start for free now
         url: /features
         style: primary
     align: left
