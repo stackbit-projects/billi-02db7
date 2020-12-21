@@ -14,7 +14,7 @@ sections:
     align: left
     image: images/hero.svg
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: blue
       background_image_opacity: 20
